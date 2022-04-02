@@ -8,5 +8,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(port, () => {
-  console.log(`Server running on cp http://localhost:${port}/`);
+  console.log(`Server running on cpp http://localhost:${port}/`);
 });
